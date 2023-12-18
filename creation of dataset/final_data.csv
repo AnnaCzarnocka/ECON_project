@@ -1,0 +1,91 @@
+,Team,Year,ST,W,PD,PP,FL,BF,BG,PTS,WC,CAR,ENGINE
+0,alfa-romeo,2019,21,0,0,0,0,4,5,57,8th,Alfa Romeo C38,Ferrari 64
+1,alfa-romeo,2020,17,0,0,0,0,9,8,8,8th,Alfa Romeo C39,Ferrari 65
+2,alfa-romeo,2021,22,0,0,0,0,8,7,13,9th,Alfa Romeo C41,Ferrari 065/6
+3,alfa-romeo,2022,22,0,0,0,1,5,5,55,6th,Alfa Romeo C42,Ferrari 066/7
+4,alfa-romeo,2023,20,0,0,0,1,8,5,16,9th,Alfa Romeo C43,Ferrari 066/10
+5,alpine,2021,22,1,2,0,0,1,3,155,5th,Alpine A521,Renault E-Tech 20B
+6,alpine,2022,22,0,0,0,0,4,2,173,4th,Alpine A522,Renault E-Tech RE22
+7,alpine,2023,20,0,2,0,0,3,3,108,6th,Alpine A523,Renault E-Tech RE23
+8,aston-martin,2021,22,0,1,0,0,2,5,77,7th,Aston Martin AMR21,Mercedes F1 M12 E Performance
+9,aston-martin,2022,22,0,0,0,0,6,5,55,7th,Aston Martin AMR22,Mercedes F1 M13 E Performance
+10,aston-martin,2023,20,0,8,0,1,2,2,261,5th,Aston Martin AMR23,Mercedes F1 M14 E Performance
+11,bwt-racing-point-f1-team,2019,21,0,0,0,0,4,5,73,7th,Racing Point RP19,Mercedes F1 M10 EQ Power+
+12,bwt-racing-point-f1-team,2020,17,1,4,1,0,1,1,195,4th,Racing Point RP20,Mercedes M11 EQ Performance
+13,caterham,2014,17,0,0,0,0,11,14,0,11th,Caterham CT05,Renault Energy F1
+14,ferrari-2,2014,19,0,2,0,1,2,4,216,4th,Ferrari F14 T,Ferrari 059/3
+15,ferrari-2,2015,19,3,16,1,3,1,1,428,2nd,Ferrari SF15-T,Ferrari 059/4
+16,ferrari-2,2016,21,0,11,0,4,2,3,398,3rd,Ferrari SF16-H,Ferrari 059/5
+17,ferrari-2,2017,20,5,20,5,7,1,1,522,2nd,Ferrari SF71H,Ferrari 62
+18,ferrari-2,2018,21,6,24,6,4,1,1,571,2nd,Ferrari SF71H,Ferrari 063
+19,ferrari-2,2019,21,3,19,9,6,1,1,504,2nd,Ferrari SF90,Ferrari 64
+20,ferrari-2,2020,17,0,3,0,0,2,4,131,6th,Ferrari SF1000,Ferrari 65
+21,ferrari-2,2021,22,0,5,2,0,2,1,323.5,3rd,Ferrari SF21,Ferrari 065/6
+22,ferrari-2,2022,22,4,20,12,5,1,1,554,2nd,Ferrari F1-75,Ferrari 066/7
+23,ferrari-2,2023,20,1,7,6,0,1,1,362,3rd,Ferrari SF-23,Ferrari 066/10
+24,force-india,2014,19,0,1,0,1,3,4,155,6th,Force India VJM07,Mercedes PU106A Hybrid
+25,force-india,2015,19,0,1,0,0,3,4,136,5th,Force India VJM08,Mercedes PU106B Hybrid
+26,force-india,2016,21,0,2,0,1,3,2,173,4th,Force India VJM09,Mercedes PU106C Hybrid
+27,force-india,2017,20,0,0,0,1,4,3,187,4th,Force India VJM11,Mercedes F1 M08 EQ Power+
+28,force-india,2018,12,0,1,0,0,3,6,52,7th,Force India VJM11,Mercedes F1 M09 EQ Power+
+29,haas,2016,21,0,0,0,0,5,7,29,8th,Haas VF-16,Ferrari 059/5
+30,haas,2017,20,0,0,0,0,6,6,47,8th,Haas VF-17,Ferrari 059/5
+31,haas,2018,21,0,0,0,1,4,5,93,5th,Haas VF-18,Ferrari 063
+32,haas,2019,21,0,0,0,1,6,5,28,9th,Haas VF-19,Ferrari 64
+33,haas,2020,17,0,0,0,0,9,13,3,9th,Haas VF-20,Ferrari 65
+34,haas,2021,22,0,0,0,0,12,14,0,10th,Haas VF-21,Ferrari 065/6
+35,haas,2022,22,0,0,0,0,5,5,37,8th,Haas VF-22,Ferrari 066/7
+36,haas,2023,20,0,0,0,0,7,4,12,10th,Haas VF-23,Ferrari 066/10
+37,lotus-f1,2014,19,0,0,0,0,8,5,10,8th,Lotus E22,Renault Energy F1
+38,lotus-f1,2015,19,0,1,0,0,3,5,78,6th,Lotus E23 Hybrid,Mercedes PU106B Hybrid
+39,marussia,2014,16,0,0,0,0,9,12,2,9th,Marussia MR03,Ferrari 059/3
+40,marussia,2015,18,0,0,0,0,12,13,0,10th,Marussia MR03B,Ferrari 059/3
+41,mclaren,2014,19,0,2,0,0,2,3,181,5th,McLaren MP4-29,Mercedes PU106A Hybrid
+42,mclaren,2015,19,0,0,0,0,5,9,27,9th,McLaren MP4-30,Honda RA615H
+43,mclaren,2016,21,0,0,0,1,5,3,76,6th,McLaren MP4-31,Honda RA616H
+44,mclaren,2017,20,0,0,0,1,6,6,30,9th,McLaren MCL32,Honda RA617H
+45,mclaren,2018,21,0,0,0,0,5,7,62,6th,McLaren MCL33,Renault R.E.18
+46,mclaren,2019,21,0,1,0,0,3,5,145,4th,McLaren MCL34,Renault E-Tech 19
+47,mclaren,2020,17,0,2,0,3,2,3,202,3rd,McLaren MCL35,Renault E-Tech 20
+48,mclaren,2021,22,1,5,1,2,1,1,275,4th,McLaren MCL35M,Mercedes F1 M12 E Performance
+49,mclaren,2022,22,0,1,0,2,3,3,159,5th,McLaren MCL36,Mercedes F1 M13 E Performance
+50,mclaren,2023,20,0,9,0,2,2,2,282,4th,McLaren MCL60,Mercedes F1 M14 E Performance
+51,mercedes,2014,19,16,31,18,12,1,1,701,1st,Mercedes F1 W05 Hybrid,Mercedes PU106A Hybrid
+52,mercedes,2015,19,16,32,18,13,1,1,703,1st,Mercedes F1 W06 Hybrid,Mercedes PU106B Hybrid
+53,mercedes,2016,21,19,33,20,9,1,1,765,1st,Mercedes F1 W07 Hybrid,Mercedes PU106C Hybrid
+54,mercedes,2017,20,12,26,15,9,1,1,668,1st,Mercedes F1 W08 EQ Power+,Mercedes F1 M08 EQ Power+
+55,mercedes,2018,21,11,25,13,10,1,1,655,1st,Mercedes F1 W09 EQ Power+,Mercedes F1 M09 EQ Power+
+56,mercedes,2019,21,15,32,10,9,1,1,739,1st,Mercedes F1 W10 EQ Power+,Mercedes F1 M10 EQ Power+
+57,mercedes,2020,17,13,25,15,9,1,1,573,1st,Mercedes W11 EQ Performance,Mercedes M11 EQ Performance
+58,mercedes,2021,22,9,28,9,10,1,1,613.5,1st,Mercedes F1 W12 E Performance,Mercedes F1 M12 E Performance
+59,mercedes,2022,22,1,17,2,6,1,1,515,3rd,Mercedes F1 W13 E Performance,Mercedes F1 M13 E Performance
+60,mercedes,2023,20,0,7,1,5,2,1,382,2nd,Mercedes F1 W14 E Performance,Mercedes F1 M14 E Performance
+61,red-bull-racing,2014,19,3,12,0,3,1,2,405,2nd,Red Bull RB10,Renault Energy F1
+62,red-bull-racing,2015,19,0,3,0,3,2,2,187,4th,Red Bull RB11,Renault Energy F1-2015
+63,red-bull-racing,2016,21,2,16,1,5,1,1,468,2nd,Red Bull RB12,TAG Heuer RB12
+64,red-bull-racing,2017,20,3,13,0,2,1,2,368,3rd,Red Bull RB13,TAG Heuer RB13
+65,red-bull-racing,2018,21,4,13,2,6,1,1,419,3rd,Red Bull RB14,TAG Heuer RB14
+66,red-bull-racing,2019,21,3,9,2,5,1,1,417,3rd,Red Bull RB15,Honda RA619H
+67,red-bull-racing,2020,17,2,13,1,3,1,1,319,2nd,Red Bull RB16,Honda RA620H
+68,red-bull-racing,2021,22,11,23,10,8,1,1,585.5,2nd,Red Bull RB16B,Honda RA621H
+69,red-bull-racing,2022,22,17,28,8,8,1,1,759,1st,Red Bull RB18,Red Bull RBPTH001
+70,red-bull-racing,2023,20,19,27,13,10,1,1,782,1st,Red Bull RB19,Honda H001
+71,sauber,2014,19,0,0,0,0,11,9,0,10th,Sauber C33,Ferrari 059/3
+72,sauber,2015,19,0,0,0,0,5,8,36,8th,Sauber C34,
+73,sauber,2016,21,0,0,0,0,9,14,2,10th,Sauber C35,
+74,sauber,2017,20,0,0,0,0,8,11,5,10th,Sauber C36,Ferrari 059/5
+75,sauber,2018,21,0,0,0,0,6,6,48,8th,Sauber C37,Ferrari 063
+76,scuderia-alphatauri-honda,2020,17,1,1,0,0,1,4,107,7th,AlphaTauri AT01,Honda RA620H
+77,scuderia-alphatauri-honda,2021,22,0,1,0,1,3,2,142,6th,AlphaTauri AT02,Honda RA621H
+78,scuderia-alphatauri-honda,2022,22,0,0,0,0,5,5,35,9th,AlphaTauri AT03,Red Bull RBPTH001
+79,scuderia-alphatauri-honda,2023,20,0,0,0,1,7,4,21,8th,AlphaTauri AT04,Honda H001
+80,williams,2014,19,0,9,1,2,2,1,320,3rd,Williams FW36,Mercedes PU106A Hybrid
+81,williams,2015,19,0,4,0,0,3,3,257,3rd,Williams FW37,Mercedes PU106B Hybrid
+82,williams,2016,21,0,1,0,0,3,2,138,5th,Williams FW38,Mercedes PU106C Hybrid
+83,williams,2017,20,0,1,0,0,3,2,83,5th,Williams FW40,Mercedes F1 M08 EQ Power+
+84,williams,2018,21,0,0,0,0,8,10,7,10th,Williams FW41,Mercedes F1 M09 EQ Power+
+85,williams,2019,21,0,0,0,0,10,14,1,10th,Williams FW42,Mercedes F1 M10 EQ Power+
+86,williams,2020,17,0,0,0,0,11,11,0,10th,Williams FW43,Mercedes M11 EQ Performance
+87,williams,2021,22,0,1,0,0,2,2,23,8th,Williams FW43B,Mercedes F1 M12 E Performance
+88,williams,2022,22,0,0,0,0,9,6,8,10th,Williams FW44,Mercedes F1 M13 E Performance
+89,williams,2023,20,0,0,0,0,7,4,28,7th,Williams FW45,Mercedes F1 M14 E Performance
